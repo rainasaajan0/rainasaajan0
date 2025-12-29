@@ -1,94 +1,55 @@
-<h1 align="center">Hi 👋, I'm Saajan Raina</h1>
-<h3 align="center">Cloud Engineer | AWS Data Platforms | Production Systems</h3>
+# Hi, I’m Saajan 👋
 
-<p align="center">
-I design and operate <b>scalable, reliable AWS data platforms</b> with a strong focus on
-<b>availability, observability, and operational excellence</b>.
-</p>
+I’m a **Cloud Engineer** working with **AWS**, focused on building and supporting **reliable data pipelines and cloud infrastructure**.
+
+I enjoy working close to production systems — designing pipelines, handling failures, improving monitoring, and making sure things work reliably over time.
 
 ---
 
-## 🔧 What I Do
+## What I work on
 
-- Architect and support **production-grade AWS infrastructure**
-- Build **real-time and batch data pipelines** at scale
-- Implement **event-driven, cloud-native architectures**
-- Own **monitoring, incident response, and reliability**
-- Optimize systems for **cost, performance, and availability**
-
----
-
-## 🧠 Engineering Mindset
-
-> *Build systems that survive real traffic, real failures, and real on-call scenarios.*
-
-- Reliability > Features  
-- Automation > Manual operations  
-- Observability is mandatory  
-- Cost awareness at every layer  
-- Design for failure, not perfection  
+- Building **real-time and batch data pipelines** on AWS  
+- Supporting **production cloud infrastructure**
+- Working with **AWS Glue, EMR, Kinesis, Lambda, S3, and Athena**
+- Monitoring systems, handling incidents, and doing root cause analysis
+- Improving performance and controlling cloud costs
 
 ---
 
-## ☁️ Core Tech Stack
+## Tech I use regularly
 
-### Cloud & Data Engineering
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_EMR-232F3E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_Kinesis-232F3E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge"/>
-</p>
+**Cloud & Data**
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
+- Glue, EMR, Kinesis, Lambda, Athena
 
-### Automation & Programming
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-</p>
+**Code & Automation**
+- Python
+- Bash / Shell scripting
+- SQL
 
 ---
 
-## 🏗️ Selected Project
+## Projects you’ll find here
 
-### 🔹 AWS Log Analytics Data Platform
-- Real-time ingestion with **Amazon Kinesis**
-- Distributed ETL using **AWS Glue**
-- Analytics via **Amazon Athena**
-- Event-driven automation using **AWS Lambda**
-- Designed for **high availability, security, and cost efficiency**
+- AWS log analytics and data lake pipelines  
+- Streaming ingestion (Kinesis → S3)  
+- ETL jobs using AWS Glue  
+- Distributed batch processing with EMR  
 
-> Built with production constraints in mind — not a demo pipeline.
+Each project focuses on **how things work in practice**, including trade-offs and operational considerations.
 
 ---
 
-## 📈 GitHub Activity
+## How I think about cloud systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainasaajan0&theme=shadow_red"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rainasaajan0&theme=shadow_red"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasaajan0&layout=compact&theme=shadow_red"/>
-</p>
+- Reliability comes first  
+- Monitoring is as important as code  
+- Automation reduces human error  
+- Cost matters once systems scale  
 
 ---
 
-## 🌐 Connect With Me
+## Let’s connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/saajan-raina-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saajanraina@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rainasaajan0&icon=0&color=0"/>
-</p>
+- LinkedIn: https://linkedin.com/in/saajan-raina-
+- Email: saajanraina@outlook.com
