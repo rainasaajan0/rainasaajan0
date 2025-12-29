@@ -1,51 +1,56 @@
 # Hi, I’m Saajan 👋
 
-I’m a **Cloud Engineer** working with **AWS**, focused on building and supporting **reliable data pipelines and cloud infrastructure**.
+I work as a **Cloud Administrator**, supporting and improving **AWS infrastructure and data pipelines** used in production.
 
-I enjoy working close to production systems — designing pipelines, handling failures, improving monitoring, and making sure things work reliably over time.
-
----
-
-## What I work on
-
-- Building **real-time and batch data pipelines** on AWS  
-- Supporting **production cloud infrastructure**
-- Working with **AWS Glue, EMR, Kinesis, Lambda, S3, and Athena**
-- Monitoring systems, handling incidents, and doing root cause analysis
-- Improving performance and controlling cloud costs
+My day-to-day work involves keeping systems reliable, monitoring what’s running, fixing issues when they occur, and gradually improving how things are built and operated.
 
 ---
 
-## Tech I use regularly
+## What I do day-to-day
 
-**Cloud & Data**
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
-- Glue, EMR, Kinesis, Lambda, Athena
+- Administer and support **production AWS environments**
+- Monitor infrastructure and applications using **CloudWatch**
+- Handle incidents, troubleshoot issues, and perform **root cause analysis**
+- Build and support **data pipelines** (real-time and batch)
+- Work closely with application, data, and platform teams
 
-**Code & Automation**
-- Python
+---
+
+## AWS services I work with
+
+- Compute & Networking: EC2, VPC, IAM, Load Balancers
+- Data & Analytics: S3, Glue, EMR, Kinesis, Athena
+- Automation & Ops: Lambda, CloudWatch
+
+---
+
+## Tools & skills
+
+- Python (automation, ETL, utilities)
 - Bash / Shell scripting
-- SQL
+- SQL (analysis and validation)
+- Monitoring, alerting, and operational support
+- High availability and cost-aware design
 
 ---
 
-## Projects you’ll find here
+## Projects you’ll see here
 
-- AWS log analytics and data lake pipelines  
-- Streaming ingestion (Kinesis → S3)  
-- ETL jobs using AWS Glue  
-- Distributed batch processing with EMR  
+- Log analytics and monitoring pipelines on AWS
+- Streaming ingestion using Kinesis
+- ETL jobs built with AWS Glue
+- Batch processing workloads using EMR
 
-Each project focuses on **how things work in practice**, including trade-offs and operational considerations.
+Projects here focus on **how systems behave in production**, not just how to set them up.
 
 ---
 
-## How I think about cloud systems
+## How I approach cloud operations
 
-- Reliability comes first  
-- Monitoring is as important as code  
-- Automation reduces human error  
-- Cost matters once systems scale  
+- Stability first, improvements next  
+- Automate what repeats  
+- Monitor before users complain  
+- Design with cost and failure in mind  
 
 ---
 
