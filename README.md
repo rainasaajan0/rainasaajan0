@@ -1,92 +1,108 @@
 # Hi, I’m Saajan 👋
 
-I work as a **Linux System Administrator**, supporting and maintaining **enterprise production systems**.
-Alongside Linux administration, I also work with **Oracle Solaris** and **AWS cloud environments**, mainly from an operational and support perspective.
+I’m a **Linux Systems & Infrastructure Engineer** with hands-on experience supporting **enterprise-grade production environments** across **on‑prem systems and AWS cloud infrastructure**.
 
-My focus is on **system stability, monitoring, access control, and incident handling**, with a strong emphasis on keeping critical systems reliable and available.
+My work sits at the intersection of **system reliability, automation, and incident response** — ensuring that critical platforms stay **stable, observable, and recoverable** under real-world operational pressure.
 
----
-
-## What I do as a Linux System Administrator
-
-- Administer and support **Linux servers** in production environments
-- Monitor system health, services, and logs
-- Handle incidents, alerts, and outages within SLA
-- Perform **root cause analysis** and implement preventive fixes
-- Manage users, groups, permissions, and access controls
-- Support system-level troubleshooting for performance and availability
-- Coordinate with application, database, and network teams
+I specialize in **keeping complex systems boring**: predictable, resilient, and well‑monitored.
 
 ---
 
-## Oracle Solaris Administration
+## 🚀 What I Do
 
-- Support **Oracle Solaris** systems in enterprise environments
-- Work with Solaris services, system monitoring, and troubleshooting
-- Assist with filesystem and system-level administration
-- Collaborate with teams on issue resolution and system stability
+### Linux Systems Engineering (Production)
 
----
-
-## Cloud & AWS Operations
-
-- Support and operate **AWS infrastructure** used by applications and data platforms
-- Monitor cloud resources using **CloudWatch**
-- Handle cloud-related incidents and operational tasks
-- Manage **IAM roles, policies, and access controls**
-- Support networking components (VPCs, security groups, routing)
-- Work with EC2, S3, Load Balancers, and Auto Scaling from an ops perspective
+* Administer and support **Linux servers** running mission‑critical workloads
+* Monitor system health, services, logs, and performance metrics
+* Handle **production incidents and outages** within defined SLAs
+* Perform **root cause analysis (RCA)** and drive long‑term corrective actions
+* Manage **users, groups, permissions, and access controls**
+* Troubleshoot OS‑level performance, availability, and resource issues
+* Work closely with **application, database, and network teams** during incidents
 
 ---
 
-## Automation & Engineering Support
+### Oracle Solaris Administration
 
-- Automate repetitive tasks using **Bash and Python**
-- Assist in improving system reliability and operational efficiency
-- Support cloud-based data pipelines and services
-- Contribute to cost-awareness and monitoring improvements
-
----
-
-## Technologies I work with
-
-**Operating Systems**
-- Linux
-- Oracle Solaris
-
-**Cloud & Platforms**
-- AWS (EC2, S3, IAM, VPC, CloudWatch, Auto Scaling)
-- Data platforms (support & ops): Glue, EMR, Kinesis, Athena, Lambda
-
-**Tools & Skills**
-- Bash / Shell scripting
-- Python (automation, utilities)
-- SQL (basic validation & analysis)
-- Monitoring & alerting
-- Incident management & RCA
+* Support **Oracle Solaris** systems in enterprise environments
+* Manage services, system health, and OS‑level troubleshooting
+* Assist with filesystems, patches, and system stability tasks
+* Collaborate with cross‑functional teams to resolve complex issues
 
 ---
 
-## What you’ll find on this GitHub
+### AWS Cloud Operations & Support
 
-- Linux and system administration scripts
-- Cloud operations and automation utilities
-- Troubleshooting notes and operational examples
-- Experiments related to AWS and system reliability
+* Operate and support **AWS infrastructure** backing production applications and data platforms
+* Monitor cloud resources using **CloudWatch** and operational dashboards
+* Respond to and resolve **cloud‑related incidents**
+* Manage **IAM roles, policies, and least‑privilege access controls**
+* Support **VPC networking**, security groups, routing, and connectivity
+* Hands‑on operational experience with:
 
----
-
-## How I approach systems & operations
-
-- Stability comes first  
-- Fix root causes, not symptoms  
-- Automate what repeats  
-- Monitor before users complain  
-- Keep systems simple and predictable  
+  * EC2, S3, Load Balancers, Auto Scaling
+  * Glue, EMR, Kinesis, Athena, Lambda (support & ops)
 
 ---
 
-## Let’s connect
+### Automation & Reliability Engineering
 
-- LinkedIn: https://linkedin.com/in/saajan-raina-
-- Email: saajanraina@outlook.com
+* Automate repetitive operational tasks using **Bash and Python**
+* Reduce manual intervention and operational toil
+* Improve **system reliability, observability, and response time**
+* Contribute to **monitoring, alerting, and cost‑awareness initiatives**
+* Support data pipelines and distributed services from an ops perspective
+
+---
+
+## 🧰 Technology Stack
+
+### Operating Systems
+
+* Linux (Enterprise production environments)
+* Oracle Solaris
+
+### Cloud & Platforms
+
+* AWS: EC2, S3, IAM, VPC, CloudWatch, Auto Scaling
+* Data Platforms (Ops & Support): Glue, EMR, Kinesis, Athena, Lambda
+
+### Tools & Skills
+
+* Bash / Shell scripting
+* Python (automation, utilities)
+* SQL (basic validation & analysis)
+* Monitoring & alerting systems
+* Incident management & RCA
+* Cross‑team production support
+
+---
+
+## 🧠 How I Think About Systems
+
+* **Stability over novelty**
+* **Automate what repeats**
+* **Detect issues before users do**
+* **Fix root causes, not symptoms**
+* **Simple systems fail less often**
+
+---
+
+## 📂 What You’ll Find in This GitHub
+
+* Linux system administration scripts
+* AWS operations & automation utilities
+* Troubleshooting playbooks and notes
+* Reliability and monitoring experiments
+* Practical examples from real operational scenarios
+
+---
+
+## 🤝 Let’s Connect
+
+* **LinkedIn:** [https://linkedin.com/in/saajan-raina-](https://linkedin.com/in/saajan-raina-)
+* **Email:** [saajanraina@outlook.com](mailto:saajanraina@outlook.com)
+
+---
+
+> *I build and operate systems that engineers can trust at 3 a.m.*
